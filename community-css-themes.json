@@ -116,6 +116,13 @@
     "modes": ["dark"]
   },
   {
+    "name": "Geode Black Opal",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/Geode-Black-Opal",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Gitsidian",
     "author": "ismailgunacar",
     "repo": "ismailgunacar/gitsidian",
