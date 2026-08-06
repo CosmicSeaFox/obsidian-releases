@@ -1410,6 +1410,13 @@
     "modes": ["dark"]
   },
   {
+   "name": "Volcanic Vein Lava",
+   "author": "CosmicSeaFox",
+   "repo": "CosmicSeaFox/Volcanic-Vein-Lava",
+   "screenshot": "screenshot.png",
+   "modes": ["dark", "light"]
+  },
+  {
     "name": "Rosé Pine",
     "author": "Simon Späti",
     "repo": "sspaeti/obsidian_rose_pine",
