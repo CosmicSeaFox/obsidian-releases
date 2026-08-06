@@ -151,6 +151,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Volcanic Vein",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/Volcanic-Vein",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Obsdn-Dark-Rmx",
     "author": "cannibalox",
     "repo": "cannibalox/Obsdn-dark-rmx",
