@@ -59,6 +59,13 @@
     "modes": ["dark"]
   },
   {
+   "name": "Celestial Abyss",
+   "author": "CosmicSeaFox",
+   "repo": "CosmicSeaFox/Celestial-Abyss",
+   "screenshot": "screenshot.png",
+   "modes": ["dark", "light"]
+  },
+  {
     "name": "Comfort color dark",
     "author": "obsidian-ezs",
     "repo": "obsidian-ezs/obsidian-comfort-color-dark",
