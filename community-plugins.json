@@ -12,7 +12,7 @@
     "name": "VaultSweep",
     "author": "VaultSweep Contributors",
     "description": "Clean and maintain your vault: find duplicate files, unused attachments, empty and orphan notes, broken links and large files.",
-   "repo": "CosmicSeaFox/VaultSweep"
+    "repo": "CosmicSeaFox/VaultSweep"
   },
   {
     "id": "hotkeysplus-obsidian",
