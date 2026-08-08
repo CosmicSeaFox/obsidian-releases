@@ -107,6 +107,13 @@
     "screenshot": "screencap.jpg",
     "modes": ["dark"]
   },
+{
+  "name": "Forgotten Golden Sanctuary",
+  "author": "CosmicSeaFox",
+  "repo": "CosmicSeaFox/Forgotten-Golden-Sanctuary",
+  "screenshot": "screenshots.png",
+  "modes": ["dark", "light"]
+},
   {
     "name": "Gastown",
     "author": "dogwaddle",
