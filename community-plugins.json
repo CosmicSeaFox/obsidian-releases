@@ -1,12 +1,5 @@
 [
 
-    {
-    "id": "vault-medic",
-    "name": "VaultMedic",
-    "author": "CosmicSeaFox",
-    "description": "One scan, a health report: finds duplicates, unused and orphan files, empty folders, broken links, and more.",
-    "repo": "CosmicSeaFox/vault-medic"
-  },
   {
     "id": "table-editor-obsidian",
     "name": "Advanced Tables",
