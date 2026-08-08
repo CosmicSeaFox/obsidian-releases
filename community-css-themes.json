@@ -8,6 +8,13 @@
     "legacy": true
   },
   {
+    "name": "Aether Core",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/Aether-Core",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Ars Magna",
     "author": "mediapathic",
     "repo": "mediapathic/obsidian-arsmagna-theme",
