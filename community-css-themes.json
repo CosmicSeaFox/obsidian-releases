@@ -23,6 +23,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Noir Void",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/noir-void",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Ayu",
     "author": "bcdavasconcelos",
     "repo": "bcdavasconcelos/Obsidian-Ayu",
