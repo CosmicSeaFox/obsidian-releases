@@ -73,6 +73,13 @@
    "modes": ["dark", "light"]
   },
   {
+   "name": "Circuit",
+   "author": "CosmicSeaFox",
+   "repo": "CosmicSeaFox/Circuit",
+   "screenshot": "screenshot.png",
+   "modes": ["dark", "light"]
+  },
+  {
     "name": "Comfort color dark",
     "author": "obsidian-ezs",
     "repo": "obsidian-ezs/obsidian-comfort-color-dark",
