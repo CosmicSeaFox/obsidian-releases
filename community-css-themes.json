@@ -59,6 +59,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Foundation",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/foundation",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Charcoal",
     "author": "bcdavasconcelos",
     "repo": "bcdavasconcelos/Obsidian-Charcoal",
