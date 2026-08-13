@@ -122,11 +122,11 @@
     "modes": ["dark"]
   },
   {
-  "name": "Engineering",
-  "author": "CosmicSeaFox",
-  "repo": "CosmicSeaFox/Engineering",
-  "screenshot": "screenshot.png",
-  "modes": ["dark", "light"]
+    "name": "Engineering",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/Engineering",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
   },
   {
     "name": "Gastown",
