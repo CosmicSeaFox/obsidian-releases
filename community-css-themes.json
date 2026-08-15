@@ -15,6 +15,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Anatomy Nocturne",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/anatomy-nocturne",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Ars Magna",
     "author": "mediapathic",
     "repo": "mediapathic/obsidian-arsmagna-theme",
