@@ -15,6 +15,13 @@
     "modes": ["dark", "light"]
   },
   {
+    "name": "Elementra",
+    "author": "CosmicSeaFox",
+    "repo": "CosmicSeaFox/Elementra",
+    "screenshot": "screenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
     "name": "Anatomy Nocturne",
     "author": "CosmicSeaFox",
     "repo": "CosmicSeaFox/anatomy-nocturne",
